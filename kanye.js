@@ -18,8 +18,8 @@ var awe_shit_bitch = function() {
 	resizeCanvas();
 
 	// Image and image properties
-	var img_w = 246;
-	var img_h = 347;
+	var img_w = 250;
+	var img_h = 250;
 	var img = document.getElementById("kanye_img");
 
 	var mouse_offset = 100;
